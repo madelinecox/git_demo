@@ -1,13 +1,13 @@
 fun = function(one)
 {
   one_plus_one <- one + 1
-  four <- newVar <- matrix(1:10,nrow = 2)
+  four <- matrix(1:10,nrow = 2)
   four[ 1, ]
   txt <- 'hi'
-  three <- two+ 1
-  if(txt == 'hi') 4
-  5}
-{
+  three <- 3
+  if(txt == 'hi')
+    print("hi")
+}
 
 #adding a comment for github 
   
